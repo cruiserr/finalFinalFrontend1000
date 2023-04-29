@@ -1,0 +1,7 @@
+.mainContent {
+    padding-top: 100px; /* Adjust this value according to your navbar height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 100px); /* Subtract the navbar height */
+  }
